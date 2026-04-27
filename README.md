@@ -2,3 +2,4 @@
 
 ## VERY UNFINISHED
 I plan to add more functionality later, but as of now it is very unfinished.
+(I'm new to github, so please use the releases instead of the source code)
